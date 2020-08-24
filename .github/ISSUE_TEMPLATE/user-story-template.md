@@ -1,41 +1,29 @@
 ---
 name: User story template
 about: A template used to quickly create a user story.
-title: ''
+title: 'TM1.1 - Template'
 labels: User story
 assignees: ''
 
 ---
 
-***
-
-🗂 **Project ID:** XX0
-📝 **Story No:** 0.0
-🚩 **Priority:** X
-***
-
-**Epic:** lorem
+**Epic:** What's the big picture?
 
 ***
-<details>
-<summary>Story details</summary>
-<br/>
-
-***
+### Story details
 #### As a
 User
 
 #### I need to
 lorem
 
-#### In order to
+#### So that
 ipsum
 
 ***
-
-#### Acceptance criteria
-- [ ] Criteria 0
-
-</details>
+### Acceptance criteria
+- [ ] Criteria 1
+- [ ] Criteria 1
+- [ ] Criteria 1
 
 ***
